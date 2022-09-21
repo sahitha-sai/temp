@@ -1,0 +1,278 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.section{
+    max-width:1366px;
+    margin:0 aut0;
+    }
+body{
+    box-sizing: border-box;
+    margin:0px;
+    padding:0px;
+}
+h1{
+    margin:0px;
+}
+.header{
+        background-image: url("https://demo.w3layouts.com/demos_new/template_demo/23-11-2021/dress-up-liberty-demo_Free/454901828/web/assets/images/b2.jpg");
+        display: flex;
+        background-size: cover;
+        height:100vh;
+        background-repeat: no-repeat;
+}
+h1.dress_up_header {
+    color: #fff;
+    font-size: 40px;
+    margin: 16px 10px 10px 51px;
+}
+
+.list ul li {
+    display: inline-block;
+    padding-left: 20px;
+    font-size: 20px;
+    text-transform: capitalize;
+    color: #fff;
+    /* margin-left: 57px; */
+}
+
+.list {
+    padding-top: 17px;
+    margin-left: 100px;
+}
+.body{
+    margin-top: 40%;
+    margin-left: -30%;
+    font-size:x-large;
+
+}
+.servi_image{
+    height: 350px;
+    width:300px;
+    border-radius: 10px;
+    padding: 20px;
+}
+.img_container{
+    display:flex;
+    flex-direction: row;
+    padding:80px;
+    padding-left:250px;
+    padding-top:5px ;
+    padding-bottom: 5px;
+}
+.offering_text{
+    opacity: 0.5;
+}
+
+.servies_heading{
+    padding-top: 30px;
+    text-align: center;
+    font-size:50px;
+}
+.img_container:hover{
+background-color: red;
+position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: inline-grid;
+    align-items: center;
+    align-content: center;
+    transform: scale(0);
+    transition: .5s;
+    background-color: rgb(245 71 72 / 80%);
+    padding: 30px;
+    border-radius: var(--border-radius);
+}
+
+
+.box{
+    display: flex;
+    flex-direction: row;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    background-color: aliceblue;
+}
+.box1{
+    height: 250px;
+    width:250px;
+    margin: 30px;
+    background-color: white;
+    border:2px;
+    padding:20px;
+}
+.box2{
+    height: 250px;
+    width:250px;
+    margin: 30px;
+    background-color: white;
+    border:2px;
+    padding:20px;
+}
+.box3{
+    height: 250px;
+    width:250px;
+    margin: 30px;
+    background-color: white;
+    border:2px;
+    padding:20px;
+}
+.box4{
+    height: 250px;
+    width:250px;
+    margin: 30px;
+    background-color: white;
+    border:2px;
+    padding:20px;
+}
+.box5{
+    height: 250px;
+    width:250px;
+    margin: 30px;
+    background-color: white;
+    border:2px;
+    padding:20px;
+}
+.box6{
+    height: 250px;
+    width:250px;
+    margin: 30px;
+    background-color: white;
+    border:2px;
+    padding:20px;
+}
+
+p{
+    font-size: larger;
+}
+.p1{
+    color:red;
+}
+.py-5{
+    padding: 15px 0 ;
+}
+.py-4{
+    padding: 15px 0;
+}
+.p2{
+    color:red
+}
+.py-6{
+    padding: 15px 0 ;
+}
+.py-7{
+    padding: 15px 0;
+}
+.p3{
+    color:red;
+}
+.py-8{
+    padding: 15px 0 ;
+}
+.py-9{
+    padding: 15px 0;
+}
+.p4{
+    color:red;
+}
+.py-10{
+    padding: 15px 0 ;
+}
+.py-11{
+    padding: 15px 0;
+}
+.p5{
+    color:red;
+}
+.py-12{
+    padding: 15px 0 ;
+}
+.py-13{
+    padding: 15px 0;
+}
+.p6{
+    color:red;
+}
+.py-14{
+    padding: 15px 0 ;
+}
+.py-15{
+    padding: 15px 0;
+}
+.square{
+    background-color:white;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 50px;
+}
+
+.lite_plan_box{
+        height: 400px;
+        width: 300px;
+        background-color: rgb(240, 240, 240);
+        margin: 30px;
+        text-align: center;
+        padding: 40px 0px;
+        line-height: 34px;
+
+}
+.square li{
+    list-style: none;
+}
+
+
+.mr-3{
+    margin-right: 10px;
+}
+
+.line-height{
+    line-height: 24px;
+}
+.list-box{
+    flex-direction: row;
+
+}
+/* .list-boxes{
+    width: 400px;
+    height: 500px;
+    /* border: 1px solid #000; */
+    /* text-align: center;
+    box-sizing: border-box;
+    margin: 20px;
+    border-radius: 15px;
+    padding: 20px 10px;
+    float: left;
+    box-shadow: 10px 6px 15px #000;
+    background-image: url("https://demo.w3layouts.com/demos_new/template_demo/23-11-2021/dress-up-liberty-demo_Free/454901828/web/assets/images/footer.jpg");
+  */
+ */
+.list-boxes{
+    list-style: none;
+}
+.footer{
+    background-image: url("https://demo.w3layouts.com/demos_new/template_demo/23-11-2021/dress-up-liberty-demo_Free/454901828/web/assets/images/footer.jpg") ;
+    background-size: cover;
+    height:100vh;
+    list-style: none;
+    line-height: 24px;
+    padding-left: 50px;
+    color: #fff;
+    font-size: 18px;
+    font-style:inherit;
+    }
+    
+
+    
+        
+
+
+
+
+
+
+
+
